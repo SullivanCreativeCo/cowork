@@ -84,45 +84,45 @@ Deferred beyond the initial 23-site build.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| RES-01 | TBD | Pending |
-| RES-02 | TBD | Pending |
-| RES-03 | TBD | Pending |
-| RES-04 | TBD | Pending |
-| DES-01 | TBD | Pending |
-| DES-02 | TBD | Pending |
-| DES-03 | TBD | Pending |
-| DES-04 | TBD | Pending |
-| DES-05 | TBD | Pending |
-| DES-06 | TBD | Pending |
-| COPY-01 | TBD | Pending |
-| COPY-02 | TBD | Pending |
-| COPY-03 | TBD | Pending |
-| COPY-04 | TBD | Pending |
-| COPY-05 | TBD | Pending |
-| LAYOUT-01 | TBD | Pending |
-| LAYOUT-02 | TBD | Pending |
-| LAYOUT-03 | TBD | Pending |
-| LAYOUT-04 | TBD | Pending |
-| LAYOUT-05 | TBD | Pending |
-| LAYOUT-06 | TBD | Pending |
-| TECH-01 | TBD | Pending |
-| TECH-02 | TBD | Pending |
-| TECH-03 | TBD | Pending |
-| TECH-04 | TBD | Pending |
-| TECH-05 | TBD | Pending |
-| TECH-06 | TBD | Pending |
-| TECH-07 | TBD | Pending |
-| QA-01 | TBD | Pending |
-| QA-02 | TBD | Pending |
-| QA-03 | TBD | Pending |
-| QA-04 | TBD | Pending |
-| QA-05 | TBD | Pending |
+| RES-01 | Phase 3 | Pending |
+| RES-02 | Phase 3 | Pending |
+| RES-03 | Phase 1 | Pending |
+| RES-04 | Phase 1 | Pending |
+| DES-01 | Phase 1 | Pending |
+| DES-02 | Phase 2 | Pending |
+| DES-03 | Phase 2 | Pending |
+| DES-04 | Phase 2 | Pending |
+| DES-05 | Phase 2 | Pending |
+| DES-06 | Phase 2 | Pending |
+| COPY-01 | Phase 2 | Pending |
+| COPY-02 | Phase 2 | Pending |
+| COPY-03 | Phase 2 | Pending |
+| COPY-04 | Phase 2 | Pending |
+| COPY-05 | Phase 2 | Pending |
+| LAYOUT-01 | Phase 2 | Pending |
+| LAYOUT-02 | Phase 2 | Pending |
+| LAYOUT-03 | Phase 2 | Pending |
+| LAYOUT-04 | Phase 2 | Pending |
+| LAYOUT-05 | Phase 2 | Pending |
+| LAYOUT-06 | Phase 2 | Pending |
+| TECH-01 | Phase 2 | Pending |
+| TECH-02 | Phase 2 | Pending |
+| TECH-03 | Phase 2 | Pending |
+| TECH-04 | Phase 2 | Pending |
+| TECH-05 | Phase 2 | Pending |
+| TECH-06 | Phase 2 | Pending |
+| TECH-07 | Phase 2 | Pending |
+| QA-01 | Phase 2 | Pending |
+| QA-02 | Phase 3 | Pending |
+| QA-03 | Phase 2 | Pending |
+| QA-04 | Phase 1 | Pending |
+| QA-05 | Phase 5 | Pending |
 
 **Coverage:**
 - v1 requirements: 30 total
-- Mapped to phases: 0
-- Unmapped: 30 ⚠️
+- Mapped to phases: 30
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-03-25*
-*Last updated: 2026-03-25 after initial definition*
+*Last updated: 2026-03-25 after roadmap creation — all 30 requirements mapped to phases*
