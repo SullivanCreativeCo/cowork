@@ -3,10 +3,15 @@
   "depth": "standard",
   "parallelization": true,
   "commit_docs": true,
-  "model_profile": "balanced",
+  "model_profile": "budget",
   "workflow": {
-    "research": true,
+    "research": false,
     "plan_check": false,
-    "verifier": false
-  }
+    "verifier": false,
+    "nyquist_validation": false,
+    "auto_advance": true,
+    "skip_discuss": true,
+    "code_review": false
+  },
+  "granularity": "coarse"
 }
