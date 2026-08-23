@@ -1,11 +1,14 @@
 {
-  "mode": "interactive",
+  "mode": "yolo",
   "depth": "standard",
   "workflow": {
-    "research": true,
-    "plan_check": true,
-    "verifier": true,
-    "auto_advance": false
+    "research": false,
+    "plan_check": false,
+    "verifier": false,
+    "auto_advance": true,
+    "nyquist_validation": false,
+    "skip_discuss": true,
+    "code_review": false
   },
   "planning": {
     "commit_docs": true,
@@ -32,5 +35,7 @@
   "safety": {
     "always_confirm_destructive": true,
     "always_confirm_external_services": true
-  }
+  },
+  "model_profile": "budget",
+  "granularity": "coarse"
 }
